@@ -1,5 +1,5 @@
 # Kaggle_Sirius-SPbSU-2022
-Kaggle qualifier with CNN for SVHN dataset
+\href{https://www.kaggle.com/c/sirius-spbsu-2022-entry-competition}{Kaggle qualifier} with CNN for SVHN dataset
 
 
 The task was to classify house numbers. In the process of solving it, the following was done:
